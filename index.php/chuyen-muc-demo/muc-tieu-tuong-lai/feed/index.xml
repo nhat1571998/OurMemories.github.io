@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mục tiêu cho tương lai &#8211; Kỉ niệm anh và em</title>
+	<atom:link href="http://localhost/OurMemories/index.php/chuyen-muc-demo/muc-tieu-tuong-lai/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Cảm ơn bạn vì thời gian qua chưa đấm vào cái mặt mình :))) Mình hứa với bạn sẽ trở thành người bạn có thể tin tưởng sau này. Yêu bạn  &#60;3</description>
+	<lastBuildDate>Wed, 05 Jan 2022 16:33:14 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>bài viết demo 1</title>
+		<link>/index.php/muc-tieu-tuong-lai/bai-viet-demo-1</link>
+					<comments>/index.php/muc-tieu-tuong-lai/bai-viet-demo-1#respond</comments>
+		
+		<dc:creator><![CDATA[lenhat]]></dc:creator>
+		<pubDate>Wed, 05 Jan 2022 16:27:57 +0000</pubDate>
+				<category><![CDATA[Mục tiêu cho tương lai]]></category>
+		<guid isPermaLink="false">/?p=25</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/muc-tieu-tuong-lai/bai-viet-demo-1/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
